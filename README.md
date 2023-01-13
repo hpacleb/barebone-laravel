@@ -2,4 +2,5 @@
 
 <p align="center">
 <a href="https://github.com/hpacleb/barebone-laravel/actions"><img src="https://github.com/hpacleb/barebone-laravel/actions/workflows/main-test.yml/badge.svg?branch=main"></a>
+<a href="https://github.com/hpacleb/barebone-laravel/actions"><img src="https://github.com/hpacleb/barebone-laravel/actions/workflows/develop-test.yml/badge.svg?branch=develop"></a>
 </p>
