@@ -30,6 +30,8 @@ jobs:
         touch database/database.sqlite
     - name: Install Node modules
       run: npm ci
+    - name: Build Node modules
+      run: npm run build
     - name: Execute tests (Unit and Feature tests) via PHPUnit
       env:
         DB_CONNECTION: sqlite
